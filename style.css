@@ -247,18 +247,6 @@ footer {
   color: hsl(171, 66%, 44%);
 }
 
-.attribution {
-  font-size: 15px;
-  text-align: center;
-  color: hsl(210, 10%, 33%);
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-.attribution a:hover {
-  color: hsl(171, 66%, 44%);
-}
-
 @media (max-width: 1000px) {
   .track-grid {
     grid-template-columns: 100%;
@@ -435,9 +423,5 @@ footer {
 
   .footer-grid .logo-foot {
     margin: 0 43%;
-  }
-
-  .attribution {
-    font-size: 12px;
   }
 }
